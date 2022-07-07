@@ -1,6 +1,6 @@
 import * as React from "react"
 
-const IndexPage = () => {
+export default IndexPage = () => {
   return (
     <main style={pageStyles}>
      <h3>Coming Soon!</h3>
